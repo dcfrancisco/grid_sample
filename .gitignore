@@ -1,0 +1,72 @@
+# Xcode
+#
+build/
+DerivedData/
+.idea/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+*.xcodeproj/
+!*.pbxproj
+*.xcsettings
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+#
+.build/
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+#
+Pods/
+Podfile.lock
+Podfile/.*
+*.xcworkspace
+
+# Carthage
+#
+Carthage/Build/
+
+# Accio dependency management
+#
+Dependencies/
+.accio/
+
+# fastlane
+#
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+fastlane/metadata
+
+# CodeKit
+#
+*.codekit3
+
+# SPX
+#
+*.spx
+
+# Tuist
+#
+ProjectDescriptionHelpers
+
+# Other
+#
+*.DS_Store
+*.swp
+*.zip
+*.otf
+*.ttf
+*.DS_Store
+*.swp
+*~
+
+# SwiftLint
+.swiftlint.yml
+.swiftlint.cache
+
